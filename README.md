@@ -28,6 +28,8 @@ Aucun tarif n'est affiché. J'adapte simplement mes tarifs à ce que les écoles
 
 Cette liste n'est pas exhaustive. Si vous voyez un sujet que je pourrais enseigner et que vous aimeriez me voir aborder, n'hésitez pas à me contacter sur [LinkedIn : EloiStree](https://be.linkedin.com/in/eloistree).
 
+
+
 -------------
 
 
