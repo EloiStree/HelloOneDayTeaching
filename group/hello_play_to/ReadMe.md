@@ -41,7 +41,7 @@ The workshop starts with the following games:
 # Play To
 
 - Horde.io
-  -https://github.com/EloiStree/PlayTo_HordesIO
+  - https://github.com/EloiStree/PlayTo_HordesIO
 - Lifeoff
   - https://github.com/EloiStree/PlayTo_Liftoff
 - Tower Fall
