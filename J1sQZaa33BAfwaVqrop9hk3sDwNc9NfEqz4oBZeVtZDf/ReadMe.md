@@ -2,7 +2,7 @@
 
 There is a video that is perfect for learning Godot:
 
-[![https://github.com/user-attachments/assets/9810e44f-853a-4ea5-9197-ec3660f8f981](https://youtu.be/LOhfqjmasi0)](https://youtu.be/LOhfqjmasi0)
+[![Image](https://github.com/user-attachments/assets/9810e44f-853a-4ea5-9197-ec3660f8f981)](https://youtu.be/LOhfqjmasi0)
 
 No need to reinvent the wheel here.
 
