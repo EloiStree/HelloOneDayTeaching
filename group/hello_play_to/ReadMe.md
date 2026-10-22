@@ -35,3 +35,36 @@ The workshop starts with the following games:
 - Play Arc Raiders using a virtual reality headset.
 - Play World of Warcraft using a virtual reality headset.
 - Hunt for cheaters in World of Warcraft.
+
+
+
+# Play To
+
+- Horde.io
+  -https://github.com/EloiStree/PlayTo_HordesIO
+- Lifeoff
+  - https://github.com/EloiStree/PlayTo_Liftoff
+- Tower Fall
+  - https://github.com/EloiStree/PlayTo_TowerFall
+- Stealth Bastard
+  - https://github.com/EloiStree/PlayTo_StealthBastard
+- 10 Second Ninja
+  - https://github.com/EloiStree/play_to_10_second_ninja
+- Silksong
+  - https://github.com/EloiStree/PlayTo_Silksong
+- Rust 
+  - https://github.com/EloiStree/PlayTo_Rust
+- World of Warcraft 
+  - https://github.com/EloiStree/PlayTo_WorldOfWarcraft
+- Arc Raider
+  - https://github.com/EloiStree/PlayTo_ArcRaiders
+- AmaZoo
+  - https://github.com/EloiStree/PlayTo_AmaZoo
+- Undertale
+  - https://github.com/EloiStree/PlayTo_Undertale
+- KS4036
+  - https://github.com/EloiStree/PlayTo_KS4036
+- Ori
+  - https://github.com/EloiStree/PlayTo_Ori
+
+
