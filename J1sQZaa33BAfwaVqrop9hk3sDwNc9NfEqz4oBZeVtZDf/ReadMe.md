@@ -1,4 +1,7 @@
-# Hello Godot
+J1sQZaa33BAfwaVqrop9hk3sDwNc9NfEqz4oBZeVtZDf [issue](https://github.com/EloiStree/HelloOneDayTeaching/issues/4)
+
+
+# Hello Godot with Brackey
 
 There is a video that is perfect for learning Godot:
 
