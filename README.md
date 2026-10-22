@@ -98,3 +98,9 @@ If I'm available and the topic sounds interesting, I'll be there 😉.
 
 ⚠️ My courses have always been, and will always remain, open source.    
 
+
+
+
+-----
+
+[GUID](https://eloistree.github.io/Website/static_vibe/guid58/)
