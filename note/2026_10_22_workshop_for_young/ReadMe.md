@@ -117,7 +117,8 @@ Une journée d’initiation qui lance les participants, puis les redirige vers d
 
 ## CNC et laser
 
-*(À coder, mais réalisable pour l’atelier.)*
+*(À coder, mais réalisable pour l’atelier.)*   
+La 3018: https://www.amazon.com.be/s?k=3018    
 
 - C’est quoi une CNC avec la 3018 sur Godot ?
 - C’est quoi la découpe laser sur Godot ?
