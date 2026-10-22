@@ -36,6 +36,17 @@ Vous pouvez découvrir un catalogue des sujets que je peux enseigner en parcoura
 - [EloiStreeRaw](https://www.youtube.com/@eloistreeraw/videos)
 - [EloiTeaching](https://www.youtube.com/@EloiTeaching)
 
+## Comment me contacter ?
+
+J'aime coder et enseigner, pas passer du temps dans les papiers.
+
+Demandez-moi si je suis disponible à une date donnée pour un sujet particulier.
+Si je suis disponible et que le sujet est intéressant, je serai là à cette date 😉.
+
+(Si vous avez besoin d'un pitch de cours pour un futur marché public ou un atelier que vous aimeriez donner avec moi, contactez-moi et je l'ajouterai à ce GitHub.)
+
+⚠️ Mes cours ont été et seront toujours open source.
+
 
 -------------
 
@@ -74,4 +85,16 @@ You can explore a catalogue of topics I can teach by browsing these two YouTube 
 
 - [EloiStreeRaw](https://www.youtube.com/@eloistreeraw/videos)
 - [EloiTeaching](https://www.youtube.com/@EloiTeaching)
+
+
+## How to Contact Me
+
+I love coding and teaching, not spending time on paperwork.     
+  
+Ask me if I'm available on a specific date for a particular topic.     
+If I'm available and the topic sounds interesting, I'll be there 😉.     
+
+(If you need a course pitch for an upcoming public event or a workshop you'd like to run with me, get in touch and I'll add it to this GitHub repository.)
+
+⚠️ My courses have always been, and will always remain, open source.    
 
