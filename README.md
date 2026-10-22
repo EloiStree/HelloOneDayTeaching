@@ -29,6 +29,13 @@ Aucun tarif n'est affiché. J'adapte simplement mes tarifs à ce que les écoles
 Cette liste n'est pas exhaustive. Si vous voyez un sujet que je pourrais enseigner et que vous aimeriez me voir aborder, n'hésitez pas à me contacter sur [LinkedIn : EloiStree](https://be.linkedin.com/in/eloistree).
 
 
+## 🇫🇷 Catalogue de cours
+
+Vous pouvez découvrir un catalogue des sujets que je peux enseigner en parcourant ces deux chaînes YouTube :
+
+- [EloiStreeRaw](https://www.youtube.com/@eloistreeraw/videos)
+- [EloiTeaching](https://www.youtube.com/@EloiTeaching)
+
 
 -------------
 
@@ -61,5 +68,10 @@ There are no prices displayed. I simply align my rates with what schools and pub
 
 This is not an exhaustive list. If you see a topic I could teach and would like me to teach it, feel free to reach out to me on [LinkedIn: EloiStree](https://be.linkedin.com/in/eloistree).
 
+## 🇬🇧 Teaching Catalogue
 
+You can explore a catalogue of topics I can teach by browsing these two YouTube channels:
+
+- [EloiStreeRaw](https://www.youtube.com/@eloistreeraw/videos)
+- [EloiTeaching](https://www.youtube.com/@EloiTeaching)
 
