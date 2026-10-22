@@ -242,6 +242,7 @@ Une journée d’initiation qui lance les participants, puis les redirige vers d
 - Comment sauvegarder ses notes de cours avec GitHub ?
 - Comment travailler en équipe avec GitHub ?
 - Comment travailler dans le train avec Git ?
+- Comment sauvegarder son code en vibe coding pour savoir revenir en arrière ?
 
 ## Initiation à l’IoT
 
