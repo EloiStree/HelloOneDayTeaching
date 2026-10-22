@@ -11,6 +11,9 @@ Une journée d’initiation qui lance les participants, puis les redirige vers d
 - Godot en une journée depuis SteamVR
 - Godot en une journée depuis un Raspberry Pi 5
 
+
+
+
 ## SteamOS
 
 - Débuter avec Godot, Krita et Blender sur SteamOS
@@ -27,7 +30,11 @@ Une journée d’initiation qui lance les participants, puis les redirige vers d
 - Piloter une voiture Amazon avec un clavier
 - Créer sa voiture avec un L298N et un Arduino
 - Créer sa voiture avec un L298N et un micro:bit
-- S’amuser avec des servomoteurs : ce n’est pas cher et c’est simple !
+- S’amuser avec des servo moteurs : ce n’est pas cher et c’est simple !
+- De Godot a un ecran SSD1306 pour faire son robot 😃 ?
+- Une camera espion depuis Godot 😶‍🌫️ avec ESP32S3 ?
+- Piloter un voiture KS4036 depuis MakeCode ?
+- Piloter un voiture KS4036 depuis Godot ?
 
 ## Cours d’électronique avec CRUMB
 
