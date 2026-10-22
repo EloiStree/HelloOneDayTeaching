@@ -1,4 +1,4 @@
-BXcKEZWwpPiTyWmPLgjk2QdXH6jfAieXf4kt68khRHXy
+BXcKEZWwpPiTyWmPLgjk2QdXH6jfAieXf4kt68khRHXy [Issue](https://github.com/EloiStree/HelloOneDayTeaching/issues/8)
 
 # The Horde.io with a gamepad
 
