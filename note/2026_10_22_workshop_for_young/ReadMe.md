@@ -174,30 +174,6 @@ La 3018: https://www.amazon.com.be/s?k=3018
 
 - Comment lire le flux d’une webcam dans Godot sous Linux ?
 - Comment utiliser l’image d’une webcam pour créer de la télémétrie ?
-érentes entrées sur Android ?
-
-## Utiliser un micro:bit depuis son ordinateur
-
-- Utiliser le micro:bit avec le BLE (Bluetooth Low Energy)
-- Utiliser le micro:bit avec le Bluetooth via un HC-05 en UART
-- Comment utiliser n’importe quel microcontrôleur avec un HC-05 en UART ?
-
-## Niveau avancé : créer de la télémétrie pour les testeurs QA et l’IA
-
-*(Avec MiraBox — j’en ai 12 pour donner des cours.)*
-
-- Comment lire les informations d’un jeu avec Cheat Engine ?
-- Comment lire les informations d’un jeu à partir des couleurs à l’écran ?
-- Comment lire les informations d’un jeu à partir du texte affiché à l’écran ?
-- Comment lire les informations d’un jeu grâce à la reconnaissance d’images avec OpenCV ?
-- Comment lire les informations d’un jeu avec [Roboflow](https://roboflow.com/) ?
-
-## Niveau avancé : créer de la télémétrie avec Unity
-
-- Comment utiliser le Job System de Unity pour lire une image dans Unity ?
-- Comment utiliser les compute shaders de Unity pour lire une image dans Unity ?
-- Comment utiliser Shader Graph de Unity pour lire une image dans Unity ?
-- Comment envoyer une image depuis Unity vers Flask pour qu’elle soit traitée en Python par une IA ?
 
 ## Niveau avancé : créer de la télémétrie avec Godot
 
