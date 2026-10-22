@@ -1,16 +1,15 @@
-
 # Hello Godot
 
-There is a video that is perfect to learn Godot:
+There is a video that is perfect for learning Godot:
 
-[<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9810e44f-853a-4ea5-9197-ec3660f8f981" />](https://youtu.be/LOhfqjmasi0)  
-https://youtu.be/LOhfqjmasi0
+[\<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9810e44f-853a-4ea5-9197-ec3660f8f981" /\>](<https://youtu.be/LOhfqjmasi0>)\
+[https://youtu.be/LOhfqjmasi0](<https://youtu.be/LOhfqjmasi0>)
 
-No need to redo the wheel here.
+No need to reinvent the wheel here.
 
-So this workshop is just to help learner to do this video.
-It take 1-2 days to adult that like computer and 1-3 days for kids.
+So, this workshop is just meant to help learners follow along with the video.
 
-Here is example of what it give at the end of this workshop:    
-https://300-gaming-space.itch.io/stage-initiation-la-programmation   
+It takes 1–2 days for adults who like computers and 1–3 days for kids.
 
+Here is an example of what you can create by the end of this workshop:\
+https://300-gaming-space.itch.io/stage-initiation-la-programmation
