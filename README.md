@@ -6,7 +6,7 @@
 
 Je m'appelle Eloi Stree. Je suis un Belge un peu fou qui aime coder plus que prendre soin de sa santé.
 
-Je suis un bon pédagogue parce que j'aime suffisamment coder pour réaliser des projets, mais je ne suis pas non plus assez intelligent pour être hors de portée de mes élèves en matière d'apprentissage.
+Je suis un bon pédagogue parce que j'aime suffisamment coder pour réaliser des projets un peu fou, mais je ne suis pas non plus assez intelligent pour être hors de portée de mes élèves en matière d'apprentissage.
 
 Rendre les sujets liés au code et à l'informatique suffisamment simples pour que les élèves puissent les comprendre est la partie la plus difficile de mon travail.
 La deuxième difficulté consiste à m'adapter aux différents niveaux de connaissances d'élèves que je ne connais pas encore lorsque je prépare un atelier 😋.
@@ -45,7 +45,7 @@ Vous pouvez découvrir un catalogue des sujets que je peux enseigner en parcoura
 > What I can teach in under 6 hours to a classroom, if requested.
 
 My name is Eloi Stree. I am a Belgian madman who likes coding more than his health.
-I am good at teaching because I like coding enough to make projects, but I am not so smart that I am out of my students' learning scope.
+I am good at teaching because I like coding enough to make projects a little bit crazy, but I am not so smart that I am out of my students' learning scope.
 
 Making coding and IT topics easy enough for students to understand is the hardest part of my job.
 The second hardest part is adapting to the different levels of knowledge of students I don't know when creating a workshop 😋.
