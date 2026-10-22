@@ -1,0 +1,4 @@
+- https://github.com/EloiStree/TeachingThisYear
+- https://github.com/EloiStree/Teaching
+- https://github.com/EloiStree/HelloEloiTeachingModule
+- https://github.com/EloiStree/P_TeachingHistoryAdministration/tree/main/2023_12_18_300GamingSpace_HelloRC
