@@ -175,7 +175,3 @@ La 3018: https://www.amazon.com.be/s?k=3018
 - Comment lire le flux d’une webcam dans Godot sous Linux ?
 - Comment utiliser l’image d’une webcam pour créer de la télémétrie ?
 
-## Niveau avancé : créer de la télémétrie avec Godot
-
-- Comment lire le flux d’une webcam dans Godot sous Linux ?
-- Comment utiliser l’image d’une webcam pour créer de la télémétrie ?
